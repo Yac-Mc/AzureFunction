@@ -1,0 +1,2 @@
+# AzureFunction
+Azure Function - CosmosDB
